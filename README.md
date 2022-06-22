@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henrietta Sam.
+- 👋 Hi, I’m Highly favored.
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning frontend/backend/fullstack
 - 💞️ I’m looking to collaborate on ...
